@@ -1,9 +1,9 @@
-Assignment 1
+Assignment 2
 ---------------
 Subject - CSE 438
 Assignment 2
 Author - Kalyani Niwrutti Ingole
-ASU Id - 1223133028
+
 ---------------
 
 ReadMe
@@ -20,12 +20,6 @@ PWM Operation and Distance Measurement on RPi
 
 ######
 Build
-
-make all for compile
-enter the following command whattsp in the terminal
-once is the ececution is 
-enter this command to remove the kernel object
-sudo ins mode kernel object ko root mein include karega 
 
 We have made a make file that includes the compiler and other commands that generate any warning needed
 Import the header file provided in the main assignment file for compilation
