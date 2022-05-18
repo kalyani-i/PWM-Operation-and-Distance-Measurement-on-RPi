@@ -1,7 +1,5 @@
-Assignment 2
 ---------------
-Subject - CSE 438
-Assignment 2
+
 Author - Kalyani Niwrutti Ingole
 
 ---------------
